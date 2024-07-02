@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "Name": "Tasakhta Global Hospital",
+        "Address": "Vuga Zanzibar Town",
+        "Distance": "7"
+    },
+    {
+        "id": "3",
+        "Name": "Altabibu Hospital",
+        "Address": "Magogoni kwa Mabata",
+        "Distance": "2.5"
+    }
+]
